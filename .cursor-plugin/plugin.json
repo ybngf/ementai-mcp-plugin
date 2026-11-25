@@ -1,0 +1,24 @@
+{
+  "name": "ementai",
+  "displayName": "EmentAI",
+  "version": "1.0.0",
+  "description": "Search real Brazilian case law, qualified precedents, súmulas and statutes, with official source citations.",
+  "author": {
+    "name": "BNGF Tecnologia e Soluções Digitais LTDA",
+    "email": "contato@ementai.com.br"
+  },
+  "homepage": "https://ementai.com.br",
+  "repository": "https://github.com/ybngf/ementai-mcp-plugin",
+  "license": "MIT",
+  "keywords": [
+    "ementai",
+    "brazilian-law",
+    "jurisprudence",
+    "legal-research",
+    "mcp",
+    "stj",
+    "stf",
+    "legislation"
+  ],
+  "logo": "assets/logo.svg"
+}
